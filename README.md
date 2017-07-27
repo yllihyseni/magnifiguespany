@@ -1,1 +1,1 @@
-# magnifiguespany
+# magnifiquespany
