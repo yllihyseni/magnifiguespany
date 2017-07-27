@@ -275,7 +275,11 @@ h1.major, h2.major, h3.major {
     background-color: rgba(255, 255, 255, 0.25); }
 
 h1 {
+<<<<<<< HEAD
   font-size: 2.9rem;
+=======
+  font-size: 2.8rem;
+>>>>>>> baae772e9859291c239e1eca6d5f8772297d8cf1
   line-height: 1.2; }
   h1.major {
     margin: 0 0 2.625rem 0; }
