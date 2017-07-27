@@ -275,7 +275,7 @@ h1.major, h2.major, h3.major {
     background-color: rgba(255, 255, 255, 0.25); }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2.9rem;
   line-height: 1.2; }
   h1.major {
     margin: 0 0 2.625rem 0; }
@@ -361,7 +361,7 @@ hr {
   html {
     font-size: 12pt; }
   h1 {
-    font-size: 2.25rem;
+    font-size: 2rem;
     line-height: 1.2; }
     h1.major {
       margin: 0 0 2.625rem 0; }
@@ -2739,7 +2739,7 @@ button,
     -webkit-box-direction: normal;
     flex-direction: column;
     height: auto;
-    margin: 0 0 5rem 0;
+    margin: 0;
     -webkit-box-shadow: 0 0.25rem 1.5rem 0.25rem rgba(46, 43, 55, 0.5);
     box-shadow: 0 0.25rem 1.5rem 0.25rem rgba(46, 43, 55, 0.5); }
     #wrapper > .scrollZone {
